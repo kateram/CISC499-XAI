@@ -21,3 +21,7 @@ Contains code for CISC 499 "Captsone Evaluating AI Explainability Through Progra
     ```bash
     python XAIRun.py
     ```
+
+To run the comparison module create two python files for both the generated and original programs named generated.py and original.py repsectively. 
+
+Averaged RESULTS.xlsx contains all of our run results for the programs inside 499programs-main.
